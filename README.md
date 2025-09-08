@@ -1,2 +1,5 @@
-Contains code snippets of all code that I use frequently. 
-Extensively commented (otherwise you won't understand shit pls iris)
+Contains code snippets of all code that are used frequently by me. 
+
+Contents: 
+1. [RecyclerView](codemanual/recycler_view.md)
+2. [Working with Firebase](codemanual/firebase_stuff.md)
