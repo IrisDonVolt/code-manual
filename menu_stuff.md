@@ -25,4 +25,13 @@
       }
     ```
 
-## Step 3: Handling 
+## Step 3: Handling clicks 
+
+    @Override 
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+      if (item.getId() == R.id.menu_item1) {
+        // do the required tasks
+        // example start a new activity 
+      }
+      return true; 
+    }
